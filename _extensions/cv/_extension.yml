@@ -15,5 +15,7 @@ contributes:
       format-resources:
         - nosort-chicago-author-date.csl
         - revsort-chicago-author-date.csl
+      mainfont:
+        - "Spectral"
   shortcodes:
     - cv.lua

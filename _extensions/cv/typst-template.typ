@@ -20,7 +20,7 @@
   paper: "us-letter",
   lang: "en",
   region: "US",
-  font: (),
+  font: none,
   fontsize: 12pt,
   sectionnumbering: none,
   toc: false,
