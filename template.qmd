@@ -1,6 +1,6 @@
 ---
 author:
-  - name: Sidney Verba
+  - name: Faith Frings
     url: https://en.wikipedia.org/wiki/Sidney_Verba
     phone: 123456789
     email: "example@harvard.edu"
